@@ -1,5 +1,7 @@
 # Okta
 
+Read the [Okta integration documentation](https://docs.nimsuite.com/en/integrations/okta) for connector details and related guides.
+
 <img src="https://github.com/Tools4ever-NIM/NIM-System-REST-Okta/assets/24281600/65a5532f-6dc7-49df-9476-3e56ab2a1fc9" width="256px" />
 
 
